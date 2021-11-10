@@ -1,0 +1,974 @@
+/* Mobile Phone  */
+@media (min-width: 320px) and (max-width: 480px) {
+  .header .menu .navbar-light .navbar-nav .nav-link {
+    font-size: 12px;
+    line-height: 22px;
+  }
+  .header .menu .fas {
+    margin-left: 0;
+  }
+  .slider .title h1 {
+    font-size: 28px;
+    line-height: 38px;
+    margin-bottom: 10px;
+  }
+  .slider .title p {
+    font-size: 7px;
+    line-height: 17px;
+  }
+  .slider .btn {
+    font-size: 14px;
+    line-height: 24px;
+    padding: 6px 14px;
+    margin-top: 20px;
+  }
+  .slider .prev-next .prev {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .slider .prev-next .next {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .features {
+    width: 100%;
+  }
+  .features .content h3 {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .features .content p {
+    font-size: 9px;
+    line-height: 19px;
+  }
+  .features .pricing .content {
+    padding-top: 40px;
+  }
+  .features .pricing .content .card-body .icon i {
+    left: 10px;
+  }
+  .about {
+    padding: 0px 0px 40px;
+  }
+
+  .about .img-fluid {
+    max-width: 100%;
+  }
+  .about .card-body {
+    margin-left: 15px;
+  }
+  .about .card-title {
+    font-size: 24px;
+    line-height: 34px;
+    padding-top: 20px;
+  }
+  .about .card-text {
+    font-size: 8px;
+    line-height: 18px;
+  }
+  .about .btn {
+    font-size: 10px;
+    line-height: 20px;
+    padding: 5px 12px;
+  }
+  .recent-work .content img {
+    height: 40px;
+  }
+  .recent-work .content h4 {
+    font-size: 22px;
+    line-height: 32px;
+  }
+  .recent-work .content .work {
+    padding: 20px 0 40px;
+  }
+
+  .recent-work .work a {
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 24px;
+    padding: 0px 5px 10px;
+  }
+  .recent-work .card {
+    margin: 10px auto 10px;
+  }
+  .recent-work .card .card-img-top {
+    width: 100%;
+  }
+  .protfolio .card:hover .icons {
+    transform: scale(0);
+  }
+  .why .head {
+    padding-bottom: 0px;
+  }
+  .why .head img {
+    height: 40px;
+  }
+  .why .head h5 {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .why-choose-nipro .content {
+    text-align: center;
+    padding: 20px 0;
+  }
+  .why-choose-nipro .content a {
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .why-choose-nipro .content a i {
+    font-size: 25px;
+    line-height: 35px;
+  }
+  .why-choose-nipro .content p {
+    font-size: 14px;
+    line-height: 24px;
+    padding-bottom: 0;
+  }
+  .download {
+    width: 100%;
+  }
+  .download .offset-4 {
+    margin-left: 0%;
+  }
+  .download h5 {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .testimonials .card-title {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .testimonials .card-h5 {
+    font-size: 12px;
+    line-height: 22px;
+  }
+  .testimonials .card-h6 {
+    font-size: 12px;
+    line-height: 22px;
+  }
+  .testimonials .card-text {
+    font-size: 10px;
+    line-height: 20px;
+    padding-top: 5px;
+  }
+  .contact .card {
+    padding: 40px;
+  }
+  .contact .card-body h5 {
+    font-size: 16px;
+    line-height: 26px;
+    left: 145px;
+  }
+}
+
+/* Mobile Phone & Tablet */
+@media (min-width: 481px) and (max-width: 575px) {
+  .header .menu .navbar-light .navbar-nav .nav-link {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .header .menu .fas {
+    margin-left: 0;
+  }
+  .slider .title h1 {
+    font-size: 42px;
+    line-height: 52px;
+    margin-bottom: 18px;
+  }
+  .slider .title p {
+    font-size: 10px;
+    line-height: 20px;
+  }
+  .slider .btn {
+    font-size: 14px;
+    line-height: 24px;
+    padding: 8px 16px;
+    margin-top: 30px;
+  }
+  .slider .prev-next .prev {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .slider .prev-next .next {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .features .content h3 {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .features .content p {
+    font-size: 12px;
+    line-height: 22px;
+    margin-bottom: 15px;
+  }
+  .features .pricing .content p {
+    font-size: 10px;
+    line-height: 20px;
+    padding-top: 10px;
+  }
+  .features .pricing .content {
+    padding-top: 50px;
+  }
+
+  .features .pricing .content .card-body .icon i {
+    font-size: 35px;
+    line-height: 45px;
+    color: #84757d;
+    background: #fff;
+    padding: 0 10px;
+    position: absolute;
+    top: -25px;
+    left: 30px;
+  }
+  .features .pricing .content h5 {
+    font-size: 12px;
+    line-height: 22px;
+  }
+  .about {
+    padding: 0px 0px 40px;
+  }
+
+  .about .img-fluid {
+    max-width: 100%;
+  }
+  .about .card-body {
+    margin-left: 20px;
+  }
+  .about .card-title {
+    font-size: 28px;
+    line-height: 38px;
+    padding-top: 25px;
+  }
+  .about .card-text {
+    font-size: 12px;
+    line-height: 22px;
+  }
+  .about .btn {
+    font-size: 12px;
+    line-height: 20px;
+    padding: 10px 20px;
+    margin-top: 30px;
+  }
+
+  .recent-work .content img {
+    height: 45px;
+  }
+  .recent-work .content h4 {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .recent-work .content .work {
+    padding: 20px 0 40px;
+  }
+
+  .recent-work .work a {
+    font-size: 18px;
+    line-height: 28px;
+    padding: 0px 5px 10px;
+  }
+  .recent-work .card {
+    margin: 10px auto 10px;
+  }
+  .recent-work .card .card-img-top {
+    width: 100%;
+  }
+  .protfolio .card:hover .icons {
+    transform: scale(0);
+  }
+  .why .head {
+    padding-bottom: 0px;
+  }
+  .why .head img {
+    height: 45px;
+  }
+  .why .head h5 {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .why-choose-nipro .content {
+    width: 100%;
+    text-align: center;
+  }
+  .why-choose-nipro .content p {
+    font-size: 9px;
+    line-height: 19px;
+    padding: 0px 0 10px;
+  }
+  .why-choose-nipro .content a {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .why-choose-nipro .content a i {
+    font-size: 15px;
+    line-height: 25px;
+    padding: 10px 8px 0 0;
+  }
+  .co-work {
+    height: 100%;
+  }
+  .co-work .head img {
+    height: 45px;
+  }
+  .co-work .head h5 {
+    font-size: 26px;
+    line-height: 36px;
+  }
+  .co-work .worker .card .card-title {
+    font-size: 7px;
+    line-height: 17px;
+  }
+  .co-work .worker .card .card-text {
+    font-size: 9px;
+    line-height: 19px;
+  }
+  .worker {
+    width: 100%;
+  }
+  .worker .card {
+    width: 25%;
+  }
+  .worker .col-sm-3 {
+    width: 25%;
+  }
+  .price .title img {
+    height: 45px;
+  }
+  .price .title h5 {
+    font-size: 26px;
+    line-height: 36px;
+  }
+  .price .card-title {
+    font-size: 11px;
+    line-height: 21px;
+  }
+  .price .card-body {
+    padding: 20px 15px 20px 15px;
+  }
+  .price .text-muted span {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .price .text-muted {
+    font-size: 16px;
+    line-height: 26px;
+    padding: 10px 0;
+    color: #8e8e8e;
+  }
+  .price p {
+    margin-bottom: 5px;
+  }
+  .price .card-text {
+    font-size: 7px;
+    line-height: 17px;
+    color: #8e8e8e;
+    margin-bottom: 30px;
+  }
+  .price .card-link a {
+    font-size: 10px;
+    line-height: 20px;
+    padding: 5px 7px;
+  }
+
+  .download {
+    padding: 25px 0 25px;
+  }
+  .download h5 {
+    font-size: 12px;
+    line-height: 22px;
+    margin-top: 8px;
+  }
+  .download .btn {
+    margin-left: 115px;
+  }
+  .download .btn a {
+    font-size: 12px;
+    line-height: 22px;
+    padding: 4px 8px;
+  }
+  .testimonials .rounded-start {
+    margin-left: 0px;
+    height: 95%;
+    object-fit: unset;
+  }
+
+  .testimonials .card-title {
+    font-size: 14px;
+    line-height: 24px;
+    margin: 0 0 4px 0;
+  }
+  .testimonials .card-text {
+    font-size: 12px;
+    line-height: 22px;
+    color: #8e8e8e;
+    padding-top: 10px;
+  }
+  .testimonials .card-h5 {
+    font-size: 12px;
+    line-height: 22px;
+  }
+  .testimonials .card-h6 {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .contact {
+    width: 100%;
+  }
+  .contact .offset-1 {
+    margin-left: 0.333%;
+  }
+  .contact .card {
+    padding: 40px;
+  }
+  .contact .card-body h5 {
+    font-size: 22px;
+    line-height: 32px;
+    left: 175px;
+  }
+  .footer .end p {
+    font-size: 10px;
+    line-height: 20px;
+    color: #fff;
+    padding-left: 5px;
+  }
+  .footer .end a {
+    font-size: 10px;
+    line-height: 10px;
+    padding: 0px 2px 0px 0;
+  }
+}
+/* Mobile Phone & Tablet */
+@media (min-width: 576px) and (max-width: 767px) {
+  .header .menu .navbar-light .navbar-nav .nav-link {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .header .menu .fas {
+    margin-left: 0;
+  }
+
+  .slider .title h1 {
+    font-size: 42px;
+    line-height: 52px;
+    margin-bottom: 18px;
+  }
+  .slider .title p {
+    font-size: 11px;
+    line-height: 21px;
+    color: #ffffff;
+  }
+  .slider .btn {
+    font-size: 14px;
+    line-height: 24px;
+    padding: 8px 16px;
+    margin-top: 30px;
+  }
+  .slider .prev-next .prev {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .slider .prev-next .next {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .features .content h3 {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .features .content p {
+    font-size: 13px;
+    line-height: 23px;
+    color: #8e8e8e;
+    margin-bottom: 15px;
+  }
+  .features .pricing .content p {
+    font-size: 10px;
+    line-height: 20px;
+    padding-top: 10px;
+  }
+  .features .pricing .content {
+    padding-top: 50px;
+  }
+
+  .features .pricing .content .card-body .icon i {
+    font-size: 35px;
+    line-height: 45px;
+    color: #84757d;
+    background: #fff;
+    padding: 0 10px;
+    position: absolute;
+    top: -25px;
+    left: 30px;
+  }
+  .features .pricing .content h5 {
+    font-size: 12px;
+    line-height: 22px;
+  }
+  .about {
+    padding: 0px 0px 40px;
+  }
+
+  .about .img-fluid {
+    max-width: 100%;
+  }
+  .about .card-body {
+    margin-left: 20px;
+  }
+  .about .card-title {
+    font-size: 28px;
+    line-height: 38px;
+    padding-top: 25px;
+  }
+  .about .card-text {
+    font-size: 12px;
+    line-height: 22px;
+  }
+  .about .btn {
+    font-size: 12px;
+    line-height: 20px;
+    padding: 10px 20px;
+    margin-top: 30px;
+  }
+
+  .recent-work .content img {
+    height: 45px;
+  }
+  .recent-work .content h4 {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .recent-work .content .work {
+    padding: 20px 0 40px;
+  }
+
+  .recent-work .work a {
+    font-size: 18px;
+    line-height: 28px;
+    padding: 0px 5px 10px;
+  }
+  .recent-work .card {
+    margin: 10px auto 10px;
+  }
+  .recent-work .card .card-img-top {
+    width: 100%;
+  }
+  .protfolio .card:hover .icons {
+    transform: scale(0);
+  }
+  .why .head {
+    padding-bottom: 0px;
+  }
+  .why .head img {
+    height: 45px;
+  }
+  .why .head h5 {
+    font-size: 26px;
+    line-height: 36px;
+  }
+  .why .head h5 {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .why-choose-nipro .content p {
+    font-size: 7px;
+    line-height: 17px;
+    padding: 0px 0 10px;
+  }
+  .why-choose-nipro .content a {
+    font-size: 12px;
+    line-height: 22px;
+  }
+  .why-choose-nipro .content a i {
+    font-size: 25px;
+    line-height: 35px;
+    padding: 10px 8px 0 0;
+  }
+  .co-work {
+    height: 100%;
+  }
+  .co-work .head img {
+    height: 45px;
+  }
+  .co-work .head h5 {
+    font-size: 26px;
+    line-height: 36px;
+  }
+  .co-work .worker .card .card-title {
+    font-size: 7px;
+    line-height: 17px;
+  }
+  .co-work .worker .card .card-text {
+    font-size: 9px;
+    line-height: 19px;
+  }
+  .price .title img {
+    height: 45px;
+  }
+  .price .title h5 {
+    font-size: 26px;
+    line-height: 36px;
+  }
+  .price .card-title {
+    font-size: 11px;
+    line-height: 21px;
+  }
+  .price .card-body {
+    padding: 20px 15px 20px 15px;
+  }
+  .price .text-muted span {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .price .text-muted {
+    font-size: 16px;
+    line-height: 26px;
+    padding: 10px 0;
+    color: #8e8e8e;
+  }
+  .price p {
+    margin-bottom: 5px;
+  }
+  .price .card-text {
+    font-size: 7px;
+    line-height: 17px;
+    color: #8e8e8e;
+    margin-bottom: 30px;
+  }
+  .price .card-link a {
+    font-size: 10px;
+    line-height: 20px;
+    padding: 5px 7px;
+  }
+
+  .download {
+    padding: 25px 0 25px;
+  }
+  .download h5 {
+    font-size: 12px;
+    line-height: 22px;
+    margin-top: 8px;
+  }
+  .download .btn {
+    margin-left: 115px;
+  }
+  .download .btn a {
+    font-size: 12px;
+    line-height: 22px;
+    padding: 4px 8px;
+  }
+  .testimonials .rounded-start {
+    margin-left: 0px;
+    height: 95%;
+    object-fit: unset;
+  }
+
+  .testimonials .card-title {
+    font-size: 14px;
+    line-height: 24px;
+    margin: 0 0 4px 0;
+  }
+  .testimonials .card-text {
+    font-size: 12px;
+    line-height: 22px;
+    color: #8e8e8e;
+    padding-top: 10px;
+  }
+  .testimonials .card-h5 {
+    font-size: 12px;
+    line-height: 22px;
+  }
+  .testimonials .card-h6 {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .contact {
+    width: 100%;
+  }
+
+  .contact .offset-1 {
+    margin-left: 0.333%;
+  }
+  .contact .card {
+    padding: 40px;
+  }
+  .contact .card-body h5 {
+    font-size: 22px;
+    line-height: 32px;
+    left: 175px;
+  }
+  .footer .end p {
+    font-size: 10px;
+    line-height: 20px;
+    color: #fff;
+    padding-left: 5px;
+  }
+  .footer .end a {
+    font-size: 10px;
+    line-height: 10px;
+    padding: 0px 2px 0px 0;
+  }
+}
+/* Tablet & Laptop  */
+@media (min-width: 768px) and (max-width: 1024px) {
+  .header .menu .fas {
+    margin-left: 0;
+  }
+  .slider .title h1 {
+    font-size: 56px;
+    line-height: 66px;
+    margin-bottom: 15px;
+  }
+  .slider .title p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .slider .btn {
+    font-size: 14px;
+    line-height: 24px;
+    padding: 8px 20px;
+    margin-top: 30px;
+  }
+  .slider .prev-next .prev {
+    font-size: 16px;
+    line-height: 26px;
+  }
+  .slider .prev-next .next {
+    font-size: 16px;
+    line-height: 26px;
+  }
+  .features .content h3 {
+    font-size: 26px;
+    line-height: 36px;
+  }
+  .features .content p {
+    font-size: 9px;
+    line-height: 19px;
+  }
+  .features .pricing .content {
+    padding-top: 40px;
+  }
+  .features .pricing .content .card-body .icon i {
+    font-size: 35px;
+    line-height: 45px;
+    left: 50px;
+  }
+  .features .pricing .content h5 {
+    font-size: 18px;
+    line-height: 26px;
+  }
+  .features .pricing .content p {
+    font-size: 13px;
+    line-height: 23px;
+    padding-top: 0px;
+  }
+  .about .img-fluid {
+    max-width: 120%;
+    height: 300px;
+    object-fit: inherit;
+  }
+  .about .card-title {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .about .card-text {
+    font-size: 9px;
+    line-height: 19px;
+  }
+  .about .btn {
+    font-size: 14px;
+    line-height: 24px;
+    padding: 8px 18px;
+  }
+
+  .recent-work {
+    padding: 0px 0px 20px;
+  }
+  .recent-work .content img {
+    height: 50px;
+  }
+  .recent-work .content h4 {
+    font-size: 26px;
+    line-height: 36px;
+  }
+  .recent-work .content .work {
+    padding: 20px 0 40px;
+  }
+
+  .recent-work .work a {
+    font-size: 18px;
+    line-height: 28px;
+    padding: 0px 5px 10px;
+  }
+  .recent-work .card {
+    width: 80%;
+  }
+  .recent-work .card .card-img-top {
+    width: 115%;
+  }
+  .protfolio .card:hover .icons {
+    transform: scale(0);
+  }
+  .why .head {
+    padding-bottom: 30px;
+  }
+  .why .head img {
+    height: 50px;
+  }
+  .why .head h5 {
+    font-size: 26px;
+    line-height: 36px;
+  }
+  .why-choose-nipro .content {
+    text-align: center;
+    padding: 20px 0;
+  }
+  .why-choose-nipro .content a {
+    font-size: 16px;
+    line-height: 26px;
+  }
+  .why-choose-nipro .content a i {
+    font-size: 22px;
+    line-height: 32px;
+  }
+  .why-choose-nipro .content p {
+    font-size: 9px;
+    line-height: 19px;
+    padding: 10px 0 0;
+    margin-bottom: 0;
+  }
+  .co-work {
+    height: auto;
+  }
+  .co-work .head img {
+    height: 55px;
+  }
+  .co-work .head h5 {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .co-work .worker .card .card-title {
+    font-size: 10px;
+    line-height: 20px;
+  }
+  .co-work .worker .card .card-text {
+    font-size: 10px;
+    line-height: 20px;
+  }
+  .price .title img {
+    height: 55px;
+  }
+  .price .title h5 {
+    font-size: 24px;
+    line-height: 34px;
+    padding-bottom: 60px;
+  }
+  .download {
+    width: 100%;
+  }
+  .download h5 {
+    font-size: 16px;
+    line-height: 26px;
+  }
+  .download .btn a {
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 26px;
+    text-transform: uppercase;
+    background: transparent;
+    color: #8e8e8e;
+    border: 1px solid #8e8e8e;
+    padding: 8px 16px;
+    transition: 1s;
+  }
+  .download .btn {
+    margin-left: 185px;
+  }
+  .price .card-body {
+    padding: 25px 10px 30px 15px;
+  }
+  .price .card-title {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .price .text-muted span {
+    font-size: 26px;
+    line-height: 36px;
+  }
+  .price .text-muted {
+    font-size: 14px;
+    line-height: 30px;
+  }
+  .price .card-text {
+    font-size: 11px;
+    line-height: 21px;
+  }
+  .price .card-link a {
+    font-size: 13px;
+    line-height: 23px;
+    padding: 13px 20px;
+  }
+  .testimonials .rounded-start {
+    width: 100%;
+    margin-left: 0;
+  }
+  .testimonials .card-body {
+    padding: 1rem 1rem 1rem 2rem;
+  }
+  .testimonials .card-title {
+    font-size: 16px;
+    line-height: 26px;
+  }
+  .testimonials .card-h5 {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .testimonials .card-h6 {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .testimonials .card-text {
+    font-size: 8px;
+    line-height: 18px;
+    padding-top: 0px;
+  }
+  .contact {
+    width: 100%;
+  }
+  .contact .offset-1 {
+    margin-left: 0;
+  }
+  .contact .card-body h5 {
+    font-size: 24px;
+    line-height: 34px;
+    left: 280px;
+  }
+  .footer .offset-1 {
+    margin-left: 0;
+  }
+
+  .footer .head h5 {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .footer .head p {
+    font-size: 14px;
+    line-height: 24px;
+    color: #ffffff;
+  }
+  .footer .link a {
+    font-size: 25px;
+    line-height: 35px;
+    padding: 8px 14px;
+  }
+  .footer .end p {
+    font-size: 13px;
+    line-height: 23px;
+    padding-left: 20px;
+  }
+  .footer .end a {
+    font-size: 13px;
+    line-height: 23px;
+    padding: 0px 6px;
+  }
+}
